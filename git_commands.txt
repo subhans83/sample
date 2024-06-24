@@ -1,0 +1,10 @@
+GIT
+
+Global Information Tracker
+Commands
+
+git status - current status of the repository. Returns current working directory
+git add- file is available to add into the repository
+git version- returns the version
+git commit- commits any file added using the add command
+
